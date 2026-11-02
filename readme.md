@@ -3,6 +3,6 @@
 ### tech stack:
 * Web framework (backend) - FastAPI
 * Web frawework (frontend) - Next.js
-* DB / Auth - Supebase
+* DB / Auth - Supabase
 * Security - Supabase row level security (submitters and let's us do rbac)
 * Emails/notifications - Supabase's own internal auth
